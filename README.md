@@ -35,13 +35,13 @@ Vintage Year: 2018
 
 CoU's Available: 26762
 ________________________
-Serial Number: 0001-081618-108372-UCR-CoU-IN-015-01012018-31122018
+Serial Number: 0001-081618-108372-UCR-CoU-IN-015-01012019-31122019
 
 Vintage Year: 2019
 
 CoU's Available: 26755
 _________________
-Serial Number: 0001-108373-147914-UCR-CoU-IN-015-01012018-31122018
+Serial Number: 0001-108373-147914-UCR-CoU-IN-015-01012020-31122020
 
 Vintage Year: 2020
 
